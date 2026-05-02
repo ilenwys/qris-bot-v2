@@ -1,0 +1,20 @@
+FOLDER INI UNTUK TEMPLATE IMAGES
+
+Taruh 3 file gambar berikut di folder ini:
+
+1. tpl_qr_button.png
+   → Crop tombol QR hijau di navbar bawah GoPay Merchant
+
+2. tpl_tambah_nominal.png  
+   → Crop tombol "Tambah Nominal" (Rp icon + tulisan)
+
+3. tpl_terapkan.png
+   → Crop tombol "Terapkan" hijau
+
+Cara crop:
+- Screenshot GoPay Merchant di HP kamu
+- Crop ketat hanya bagian tombolnya saja
+- Simpan sebagai PNG
+- Upload ke folder ini sebelum push ke GitHub
+
+Tanpa file-file ini, APK tidak bisa menemukan tombol yang akan diklik!

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRIS Bot</string>
+    <string name="accessibility_service_desc">QRIS Bot memerlukan Accessibility Service untuk otomasi GoPay Merchant</string>
+</resources>
